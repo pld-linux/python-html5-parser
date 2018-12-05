@@ -7,13 +7,13 @@
 %define		module html5-parser
 Summary:	A fast, standards compliant, C based, HTML 5 parser for python
 Name:		python-%{module}
-Version:	0.4.4
-Release:	2
+Version:	0.4.5
+Release:	1
 # html5-parser-0.4.4/gumbo/utf8.c is MIT
 License:	ASL 2.0 and MIT
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/h/%{module}/%{module}-%{version}.tar.gz
-# Source0-md5:	3ba0ac9ae28d0039b523fee2a13d189d
+# Source0-md5:	0d133a1f6d8251f5a786df5074423e29
 URL:		https://pypi.python.org/pypi/%{module}
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
