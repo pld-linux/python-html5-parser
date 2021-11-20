@@ -8,7 +8,7 @@
 Summary:	A fast, standards compliant, C based, HTML 5 parser for python
 Name:		python-%{module}
 Version:	0.4.5
-Release:	4
+Release:	5
 # html5-parser-0.4.4/gumbo/utf8.c is MIT
 License:	ASL 2.0 and MIT
 Group:		Libraries/Python
